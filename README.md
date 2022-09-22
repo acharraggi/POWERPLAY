@@ -9,3 +9,4 @@ FIRST Tech Challenge sample programs for the POWERPLAY season.
 - Vuforia1.java - The default "concep" Vurforia program that detects this years navigation targets using a webcam.
 - VuforiaBlue1.java - This autonomous program simply drives to the nearest ground junction to place a cone there. (Does not use Vuforia).
 - VuforiaBlue2.java - This autonomous programs uses Vuforia to re-align the robot while it drives to the stack of blue cones.
+- model_20220922_142933.tflite - The Tensorflow model used in the Cam2 program.
